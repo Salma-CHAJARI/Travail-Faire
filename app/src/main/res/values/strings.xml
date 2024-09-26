@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">TravailRendre</string>
+    <string name="name">Nom et Prénom: </string>
+    <string name="email">Votre E-mail: </string>
+    <string name="phone">Votre Numéro de téléphone: </string>
+    <string name="adress">Votre adresse actuelle: </string>
+    <string name="ville">Sélectionnez votre ville: </string>
+    <string-array name="villes">
+        <item>Sélectionnez votre ville</item>
+        <item>Casablanca</item>
+        <item>Rabat</item>
+        <item>Berkane</item>
+        <item>Marrakech</item>
+        <item>Fes</item>
+        <item>Tangier</item>
+        <item>Mohammedia</item>
+        <item>Taza</item>
+        <item>Essaouira</item>
+        <item>Ouarzazate</item>
+        <item>Agadir</item>
+        <item>Meknes</item>
+        <item>Beni Mellal</item>
+        <item>Oujda</item>
+        <item>Nador</item>
+        <item>El Jadida</item>
+        <item>Safi</item>
+        <item>Tetouan</item>
+        <item>Kenitra</item>
+    </string-array>
+    <string-array name="dispos">
+        <item>Choisir votre disponibilité</item>
+        <item>Temps plein</item>
+        <item>Temps partiel</item>
+        <item>Soirée/week-end</item>
+    </string-array>
+    <string name="nomUtil">Nom et Prénom: </string>
+    <string name="emailUtil">E-mail: </string>
+    <string name="telephoneUtil">Téléphone: </string>
+    <string name="adressUtil">Adresse: </string>
+    <string name="villeUtil">Ville:</string>
+    <string name="disponibilite">Disponibilité: </string>
+</resources>

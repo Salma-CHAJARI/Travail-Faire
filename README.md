@@ -53,6 +53,10 @@ Développé par *CHAJARI Salma* dans le cadre d'un exercice de développement d'
 
 Ce projet est sous licence *MIT*. Voir le fichier LICENSE pour plus de détails.
 
+## *Vidéo démonstratif*
+
+Ce vidéo montre les différentes fonctionnalité existe.
+
 
 https://github.com/user-attachments/assets/95b9cf32-6593-4832-9f17-cd1b8b545756
 
